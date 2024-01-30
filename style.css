@@ -86,6 +86,7 @@ video {
     transform: translate(-50%);
     height: 100%;
 }
+
 .button {
     position: absolute;
     left: 50%;
@@ -135,7 +136,15 @@ video {
     font-weight: 600;
     color: #f67290;
 }
-
+.bottom .img .name2 {
+    position: absolute;
+    top: 68%;
+    left: 67%;
+    font-family: "宋体";
+    font-weight: 600;
+    color: #f67290;
+    font-size: 4vh;
+}
 .tran {
     transform: translateY(-100%);
 }
